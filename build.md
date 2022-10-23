@@ -7,8 +7,8 @@ Patches: revanced-patches-2.85.2.jar
 * **youtube/integrations:** set context for remaining activities ([#828](https://github.com/revanced/revanced-patches/issues/828)) ([b2b6a3d](https://github.com/revanced/revanced-patches/commit/b2b6a3d1492bc2d5a6e27c68c74e3904764dda4b))
 
   
-YouTube: 17.36.37  
-YouTube: 17.36.37  
+YouTube: 17.41.36  
+YouTube: 17.41.36  
 Music (arm64-v8a): 5.29.52  
 Music (arm64-v8a): 5.29.52  
 Music (arm-v7a): 5.29.52  
