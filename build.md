@@ -1,21 +1,24 @@
-CLI: revanced-cli-2.15.0-all.jar  
-Integrations: app-release-unsigned-v0.55.0.apk  
-Patches: revanced-patches-2.85.2.jar  
+CLI: revanced-cli-2.20.0-all.jar  
+Integrations: revanced-integrations-0.91.0-v0.91.1.apk  
+Patches: revanced-patches-2.151.0.jar  
 
-#### [2.85.2](https://github.com/revanced/revanced-patches/compare/v2.85.1...v2.85.2) (2022-10-22)
+### [2.151.0](https://github.com/revanced/revanced-patches/compare/v2.150.0...v2.151.0) (2022-12-31)
 ### Bug Fixes
-* **youtube/integrations:** set context for remaining activities ([#828](https://github.com/revanced/revanced-patches/issues/828)) ([b2b6a3d](https://github.com/revanced/revanced-patches/commit/b2b6a3d1492bc2d5a6e27c68c74e3904764dda4b))
+* **youtube/general-ads:** restore swipe back to exit gesture ([#1405](https://github.com/revanced/revanced-patches/issues/1405)) ([2440587](https://github.com/revanced/revanced-patches/commit/24405877dd935a757fa61c7580887c1a47a25ea9))
+### Features
+* **youtube:** `copy-video-url` patch ([#1402](https://github.com/revanced/revanced-patches/issues/1402)) ([bf982e8](https://github.com/revanced/revanced-patches/commit/bf982e8d7765c2a89a5475b6db8b203a3ac4ddf9))
 
   
-YouTube: 17.41.36  
-YouTube: 17.41.36  
-Music (arm64-v8a): 5.29.52  
-Music (arm64-v8a): 5.29.52  
-Music (arm-v7a): 5.29.52  
-Music (arm-v7a): 5.29.52  
-Twitter: 9.64.0-release.0  
-Reddit: 2022.39.1  
-TikTok: 26.6.4  
-Spotify: 8.7.76.359  
+**App Versions:**  
+YouTube: 17.49.37  
+Music (arm-v7a): 5.36.51  
+YT Music (arm64-v8a): 5.36.51  
+Twitter: 9.69.1-release.0  
+Reddit: 2022.45.0  
+Twitch: 14.3.2  
+Tiktok: 27.2.5  
+Backdrops: 4.1.96  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
