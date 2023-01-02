@@ -12,7 +12,7 @@ build-mindetach-module = true
 [YouTube]
 enabled = true                                                        # add 'enabled = false' key to entries to not build them
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
-excluded-patches = "debugging"                                        # whitespace seperated list of patches to exclude
+excluded-patches = "debugging hide-cast-button"                                        # whitespace seperated list of patches to exclude
 included-patches = ""                                            # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
@@ -24,7 +24,7 @@ rip-libs = true
 
 [Music-arm64]
 build-mode = "both"
-app-name = "Music"
+app-name = "YT Music"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
@@ -85,7 +85,7 @@ build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/deutscher-wetterdienst/warnwetter/"
 
 [Backdrops]
-enabled = false
+enabled = true
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
@@ -95,3 +95,10 @@ enabled = false
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
+
+[NyxMusicPlayer]
+enabled = true
+build-mode = "apk"
+version = "latest"
+apkmirror-dlurl = "https://d.cdnpure.com/b/APK/com.awedea.nyx?version=latest"
+
