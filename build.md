@@ -1,23 +1,21 @@
 CLI: revanced-cli-3.1.0-all.jar  
-Integrations: revanced-integrations-0.117.1-v0.117.1.apk  
-Patches: revanced-patches-2.190.0.jar  
+Integrations: revanced-integrations-0.118.0-v0.118.0.apk  
+Patches: revanced-patches-2.192.0.jar  
 
-### [2.190.0](https://github.com/ReVanced/revanced-patches/compare/v2.189.0...v2.190.0) (2023-09-03)
+### [2.192.0](https://github.com/ReVanced/revanced-patches/compare/v2.191.0...v2.192.0) (2023-10-05)
 ### Bug Fixes
-* **Infinity for Reddit - Spoof client:** Support latest version ([8a5311b](https://github.com/ReVanced/revanced-patches/commit/8a5311b1e645ca2aab1e416d647cf52bf0be6e7f))
+* **Relay for Reddit - Spoof client:** Prevent OAuth login being disabled remotely ([a0aa2be](https://github.com/ReVanced/revanced-patches/commit/a0aa2be86d25aab2803901b4100fdc75461e94bc))
+* Remove `dependencies` from generated JSON file ([79bb3e1](https://github.com/ReVanced/revanced-patches/commit/79bb3e164f84094c639ac9e567dc0a5ce70300bd))
 ### Features
-* **Photomath:** Support latest version ([5a2cad0](https://github.com/ReVanced/revanced-patches/commit/5a2cad077f03880ee1417c5cfd448bbdea4c07e2))
-* **Twitch:** Support version `16.1.0` ([#2923](https://github.com/ReVanced/revanced-patches/issues/2923)) ([d9834a9](https://github.com/ReVanced/revanced-patches/commit/d9834a9abb43390af4cb33f5dd5a0e2d3b7060e2))
-
-  
+* **TikTok:** Constrain patches to last working version ([066023c](https://github.com/ReVanced/revanced-patches/commit/066023ca148b413b0848c0939e0bab2b3ff32b3a))
+* **YouTube - Hide \n  
 **App Versions:**  
-YouTube: 18.32.39  
-YT Music (arm64-v8a): 6.17.52  
-Music (arm-v7a): 6.17.52  
-Twitter: 10.5.0-release.1  
-Reddit: 2023.34.0  
-Tiktok: 27.2.5  
-Backdrops: 5.1.3  
+Music (arm-v7a): 6.22.51  
+YouTube: 18.40.32  
+YT Music (arm64-v8a): 6.22.51  
+Twitter: 10.10.0-release.0  
+Reddit: 2023.39.0  
+Twitch: 16.5.1  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
